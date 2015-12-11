@@ -1,1 +1,1 @@
-# resource-aria-accordion
+# resource-aria-alert
